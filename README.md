@@ -1,3 +1,3 @@
-# ***Lit Sites***
+# ***Lit Skins***
 
-A base repo for my [Jekyll](https://github.com/jekyll/jekyll) sites
+The home of emulator skins created by myself and the community
