@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: welcome
+title: Welcome
 ---
 
 Here you can find emulator skins created by myself and members of the community
