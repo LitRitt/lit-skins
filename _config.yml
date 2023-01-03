@@ -3,7 +3,7 @@ author:
   name: LitRitt
   email: dev@litritt.com
 description: The home of emulator skins
-url: "https://litritt.com"
+url: "https://skins.litritt.com"
 base_url: "" # Example - /blog
 github_url: "https://github.com/LitRitt/lit-skins" # GitHub link for footer link. Comment out to remove link
 
@@ -22,8 +22,8 @@ lit-midnight:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 remote_theme: litritt/lit-midnight
