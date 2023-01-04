@@ -23,7 +23,15 @@ lit-midnight:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - about.md
+  - home.md
+  - about.md
 
 # Build settings
 remote_theme: litritt/lit-midnight
+
+exclude:
+  - LICENSE.txt
+  - README.md
+
+whitelist:
+  - jekyll-redirect-from
