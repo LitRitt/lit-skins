@@ -121,10 +121,10 @@
                   "name": "CICrop",
                   "parameters": {
                     "inputRectangle": {
-                      "x": 285,
+                      "x": 178,
                       "y": 60,
-                      "width": 270,
-                      "height": 480
+                      "width": 243,
+                      "height": 432
                     }
                   }
                 }
@@ -145,9 +145,9 @@
               },
               "outputFrame": {
                 "x": 12,
-                "y": 42,
+                "y": 45,
                 "width": 390,
-                "height": 260
+                "height": 351
               }
             }
           ],
@@ -278,9 +278,9 @@
                   "parameters": {
                     "inputRectangle": {
                       "x": 60,
-                      "y": 98,
-                      "width": 720,
-                      "height": 405
+                      "y": 141,
+                      "width": 480,
+                      "height": 270
                     }
                   }
                 }
@@ -300,10 +300,10 @@
                 "height": 160
               },
               "outputFrame": {
-                "x": 185,
-                "y": 64,
-                "width": 366,
-                "height": 244
+                "x": 188,
+                "y": 45,
+                "width": 360,
+                "height": 324
               }
             }
           ],
@@ -592,9 +592,9 @@
                   "parameters": {
                     "inputRectangle": {
                       "x": 60,
-                      "y": 133,
-                      "width": 720,
-                      "height": 333
+                      "y": 165,
+                      "width": 480,
+                      "height": 222
                     }
                   }
                 }
@@ -614,10 +614,10 @@
                 "height": 160
               },
               "outputFrame": {
-                "x": 247,
-                "y": 52,
-                "width": 402,
-                "height": 268
+                "x": 248,
+                "y": 27,
+                "width": 400,
+                "height": 360
               }
             }
           ],
@@ -751,10 +751,10 @@
                   "name": "CICrop",
                   "parameters": {
                     "inputRectangle": {
-                      "x": 240,
+                      "x": 138,
                       "y": 60,
-                      "width": 360,
-                      "height": 480
+                      "width": 324,
+                      "height": 432
                     }
                   }
                 }
@@ -774,10 +774,10 @@
                 "height": 160
               },
               "outputFrame": {
-                "x": 24,
-                "y": 24,
-                "width": 720,
-                "height": 480
+                "x": 66,
+                "y": 23,
+                "width": 640,
+                "height": 576
               }
             }
           ],
@@ -907,10 +907,10 @@
                   "name": "CICrop",
                   "parameters": {
                     "inputRectangle": {
-                      "x": 100,
-                      "y": 60,
-                      "width": 640,
-                      "height": 480
+                      "x": 60,
+                      "y": 96,
+                      "width": 480,
+                      "height": 360
                     }
                   }
                 }
@@ -931,9 +931,9 @@
               },
               "outputFrame": {
                 "x": 212,
-                "y": 120,
+                "y": 114,
                 "width": 600,
-                "height": 400
+                "height": 540
               }
             }
           ],
